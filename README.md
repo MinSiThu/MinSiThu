@@ -10,6 +10,12 @@
 <br/>
 <br/>
 
+- :unicorn: I am currently working on challangive technical & social solutions.
+- :dolphin: I love cold weather & open source.
+- :seedling: I write articles on Medium. [Follow me](https://medium.com/@minsithu_53495).
+- :tea: For open source contributions and articles I made, you can buy me a tea.
+- :postbox: Ask me about anything [here](https://github.com/MinSiThu/MinSiThu/issues).
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinSiThu)](https://github-profile-trophy.vercel.app/?username=MinSiThu)
 
 
