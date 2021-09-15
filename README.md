@@ -19,7 +19,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinSiThu)](https://github-profile-trophy.vercel.app/?username=MinSiThu)
 
 
-[![Min Si Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSiThu&count_private=true&show_icons=true&theme=shades-of-purple)](https://github-readme-stats.vercel.app/api?username=MinSiThu&count_private=true&show_icons=true&theme=shades-of-purple)
+[![Min Si Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSiThu&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=MinSiThu&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSiThu&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSiThu&langs_count=8)
 
