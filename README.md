@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-- 🥇 These days, I am making my own startups & working on solutions for social challanges in Myanmar.
+- 😸 These days, I am making my own startups & working on solutions for social challanges in Myanmar.
 - :dolphin: I am a strong open source contributor.
 - :seedling: I write articles on Medium. [Follow me](https://medium.com/@minsithu_53495).
 - :tea: For open source contributions and articles I made, you can buy me a tea.
