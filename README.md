@@ -1,20 +1,22 @@
 ### Hi there, I am Min Si Thu 👋
 ![](https://komarev.com/ghpvc/?username=MinSiThu)
 
-<a href="https://twitter.com/minsith09364146">
-  <img align="left" alt="Min Si Thu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/min-si-thu-265917171">
-  <img align="left" alt="Min Si Thu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br/>
-<br/>
+#### How to reach me on social!
 
-- 😸 These days, I am making my own startups & working on solutions for social challanges in Myanmar.
-- :dolphin: I am a strong open source contributor.
+- [Twitter](https://twitter.com/minsith09364146)
+- [Linkedin](https://www.linkedin.com/in/min-si-thu-265917171)
+- [Facebook](https://www.facebook.com/profile.php?id=100008064318566)
+- [Medium](https://medium.com/@minsithu_53495)
+- [Youtube](https://www.youtube.com/@mstengine286)
+
+#### About Me
+
+- 😸 I am a software engineer and AI enthusiast.
+- :dolphin: Strongly interested in making open-source.
 - :seedling: I write articles on Medium. [Follow me](https://medium.com/@minsithu_53495).
-- :tea: For open source contributions and articles I made, you can buy me a tea.
+- :tea: For open source contributions and articles I made, you can buy me tea.
 - :postbox: Ask me about anything [here](https://github.com/MinSiThu/MinSiThu/issues).
+- ⚡ Fun fact: I like to travel.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MinSiThu&theme=discord)](https://github-profile-trophy.vercel.app/?username=MinSiThu)
 
