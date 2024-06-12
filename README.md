@@ -12,9 +12,10 @@
 #### About Me
 
 - 😸 I am a software engineer and AI enthusiast.
+- 🦸 I built MyanmarGPT - Generative Pretrained Transformer in Burmese Language
 - :dolphin: Strongly interested in making open-source.
 - :seedling: I write articles on Medium. [Follow me](https://medium.com/@minsithu_53495).
-- :tea: For open source contributions and articles I made, you can buy me tea.
+- :tea: You can buy me tea for open source contributions and articles I made.
 - :postbox: Ask me about anything [here](https://github.com/MinSiThu/MinSiThu/issues).
 - ⚡ Fun fact: I like to travel.
 
